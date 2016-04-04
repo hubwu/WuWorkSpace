@@ -1,0 +1,46 @@
+html, body {
+	color: #222222;
+	font-family: Microsoft YaHei, Helvitica, Verdana, Tohoma, Arial, san-serif;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	background-color: #FBF5E0;/*背景颜色*/
+	overflow-x: hidden;/*水平溢出隐藏*/
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+}
+img {
+	border: 0;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+}
+.panel {
+	display: block;
+	margin: 0 auto;
+}
+.panel-code {
+	margin: 10px 0px 10px 0px;
+	text-align: center;
+}
+.panel-title {
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+	font-size:20px;
+	color:#3287da;
+}
+.panel-content font {
+	margin: 0px 20px 0px 20px;
+	font-size:14px;
+	display:block;
+	Line-height:25px;
+}
+.panel-code img {
+	width: 120px;
+	height: 120px;
+	display: inline;
+	overflow: hidden;
+}

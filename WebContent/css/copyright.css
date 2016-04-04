@@ -1,0 +1,11 @@
+.copyright {
+	padding: 0px;
+	text-align: center;
+	font-size: 14px;
+	color: #666;
+}
+.copyright a {
+	padding: 0px 5px 15px 20px;
+	color: #666;
+	display: block;
+}
