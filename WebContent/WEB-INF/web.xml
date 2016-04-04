@@ -13,11 +13,6 @@
 		<url-pattern>/downapp.do</url-pattern>
 	</servlet-mapping>
 
-	<!-- <listener>
-		<listener-class>timer.PortalListener</listener-class>
-		
-	</listener> -->
-
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 		<welcome-file>index.htm</welcome-file>
